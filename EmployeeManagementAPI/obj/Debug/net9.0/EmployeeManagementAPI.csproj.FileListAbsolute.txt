@@ -1,0 +1,8 @@
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.csproj.AssemblyReference.cache
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.AssemblyInfoInputs.cache
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.AssemblyInfo.cs
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abusu\EmployeeManagementAPI\obj\Debug\net9.0\EmployeeManagementAPI.MvcApplicationPartsAssemblyInfo.cache
